@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software developer by training, but wore more than one hat in my previous and current job. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I currently live in Taiwan, but I am originally from El Salvador, a little country in Central America.
+
 
 ### Contact me
 
