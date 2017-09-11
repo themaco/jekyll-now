@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a software developer by training, but wore more than one hat in my previous and current job. 
+I am a software engineer. I studied Management Information Systems in collegue and got a master degree in Computer Science, but my passion has always been software development.
 
 ### More Information
 
@@ -13,4 +13,4 @@ I currently live in Taiwan, but I am originally from El Salvador, a little count
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eduardo@cerritos.me](mailto:eduardo@cerritos.me)
