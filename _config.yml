@@ -17,16 +17,16 @@ avatar: https://avatars1.githubusercontent.com/u/317741?v=3&s=460
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  dribbble: #
   email: eduardo@cerritos.me
-  facebook:
-  flickr:
+  facebook: #
+  flickr: #
   github: themaco
-  instagram:
+  instagram: #
   linkedin: cerritos
-  pinterest:
-  rss: feeds
-  twitter: @mr_cerritos
+  pinterest: #
+  rss: #feeds
+  twitter: mr_cerritos
   stackoverflow: users/8593384/e-cerritos
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
