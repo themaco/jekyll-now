@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer. I studied Management Information Systems in collegue and got a master degree in Computer Science, but my passion has always been software development.
+I am a software engineer. I studied Management Information Systems in my undergrad and got a master degree in Computer Science.  My passion has always been software development, data engineering and learning languages.
 
 ### More Information
 
-I currently live in Taiwan, but I am originally from El Salvador, a little country in Central America.
+I currently live in San Francisco, originally from El Salvador.
 
 
 ### Contact me
